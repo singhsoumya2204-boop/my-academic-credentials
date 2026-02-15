@@ -18,10 +18,7 @@ This repository contains all my academic degrees, certifications, and official d
 - CDAC PG-DAC Certificate
 - CDAC Marksheet
 
-### 📜 Certifications
-- Java
-- Python
-- Web Development
+
 
 ### 📄 Resume
 - Latest Resume (PDF)
